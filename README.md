@@ -1,5 +1,5 @@
 # bakalari-mobile
-Neoficiální rychlejší aplikace pro bakaláře. (API 3)
+Neoficiální rychlejší aplikace pro přístup k Bakalaří API V3. Založená na Apache Cordova 
 
 ## Aktivně ve vývoji!!
 
