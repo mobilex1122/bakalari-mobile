@@ -1,5 +1,5 @@
 # bakalari-mobile
-Neoficiální Rychlejší aplikace pro bakaláře. (API 3)
+Neoficiální rychlejší aplikace pro bakaláře. (API 3)
 
 ## Aktivně ve vývoji!!
 
