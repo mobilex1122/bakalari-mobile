@@ -1,0 +1,23 @@
+{
+  "name": "eu.mobilex1122.bakalari-mobile",
+  "displayName": "Bakamobile",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Mobilex1122",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova-android": "^10.1.2"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+function gentable(clases) {
+    
+}
