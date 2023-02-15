@@ -5,6 +5,13 @@ Neoficiální rychlejší aplikace pro přístup k Bakalaří API V3. Založená
 
 Doporučená alternativa před dokončením: [Bakalari-cli](https://github.com/rpsloup/bakalari-cli)
 
+## seznam funkcí
+- [ ] offline přístup
+- [ ] rozvrh
+- [ ] motivy
+- [ ] absence
+
+
 # Sestavení pro Android
 ## Požadavlky
  - Cordova verze 11.1.0
